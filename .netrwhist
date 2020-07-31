@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/aytac/works/in-sylva.gatekeeper'
+let g:netrw_dirhist_2='/home/aytac/works/in-sylva.gatekeeper/__test__/models'
+let g:netrw_dirhist_1='/home/aytac/works/in-sylva.gatekeeper/__test__'
+let g:netrw_dirhist_0='/home/aytac/works/in-sylva.gatekeeper'
+let g:netrw_dirhist_9='/home/aytac/works/in-sylva.gatekeeper/__test__/models'
+let g:netrw_dirhist_8='/home/aytac/works/in-sylva.gatekeeper/__test__'
+let g:netrw_dirhist_7='/home/aytac/works/in-sylva.gatekeeper'
+let g:netrw_dirhist_6='/home/aytac/works/in-sylva.gatekeeper/__test__/models'
+let g:netrw_dirhist_5='/home/aytac/works/in-sylva.gatekeeper/__test__'
+let g:netrw_dirhist_4='/home/aytac/works/in-sylva.gatekeeper'
